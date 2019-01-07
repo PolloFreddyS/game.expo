@@ -25,7 +25,6 @@ function onYouTubeIframeAPIReady() {
 //onYouTubeIframeAPIReady()
 
 function play(){
-	 player.stopVideo();
 	 player.seekTo(0); 
 	alert('To enjoy the game in the highest level of fun, put the headphones and the volume in 70% or more!');
   if (confirm("Do you have the headphones? ARE YOU READY?")) {
