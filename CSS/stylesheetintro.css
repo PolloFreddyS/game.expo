@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+font-size: 50px;
+color: white;
+background-image: url("https://i.pinimg.com/originals/1f/58/d2/1f58d204278f70f30242c05329f161e7.gif");
+background-size: cover;
+}
+
+body span {
+font-family: 'Gugi';
+}
+
+a {
+  background-color: transparent;
+  font-size: 70px;
+  letter-spacing: .1em;
+  margin:auto;
+  text-decoration:none;
+  margin-top: 20%;
+  margin-bottom: 3%;
+  display: block;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  width: 50%;
+  text-align: center;
+  overflow: hidden;
+  cursor: pointer;
+}
