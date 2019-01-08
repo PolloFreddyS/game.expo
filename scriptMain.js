@@ -29,7 +29,7 @@ function play(){
 	alert('To enjoy the game in the highest level of fun, put the headphones and the volume in 70% or more!');
   if (confirm("Do you have the headphones? ARE YOU READY?")) {
     player.playVideo()
-    window.open("https://storage.googleapis.com/files.gamefroot.com/users/2411842/games/121198/gamefroot-2019-0-7T15-20-42.903Z/index.html");
+    window.open("https://storage.googleapis.com/files.gamefroot.com/users/2411842/games/121198/gamefroot-2019-0-8T19-55-21.913Z/index.html");
   } 
   else {
 	  player.stopVideo();
